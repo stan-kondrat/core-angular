@@ -1,0 +1,16 @@
+{
+  "name": "core-angular",
+  "version": "0.1.0",
+  "homepage": "https://github.com/AwesomeCore/core-angular",
+  "main": [
+  	"directives/ng-event.js",
+  	"directives/ng-request.js",
+  ],
+  "ignore": [
+  	"README.md"
+  ],
+  "authors": [
+    "AwesomeCore team"
+  ],
+  "license": "MIT"
+}
